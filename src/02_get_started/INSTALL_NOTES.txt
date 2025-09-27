@@ -1,0 +1,1 @@
+GCC/Clang/MinGW langkah ringkas.
